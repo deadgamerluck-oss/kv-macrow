@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#104b50"/>
+      <stop offset="100%" stop-color="#0b3031"/>
+    </linearGradient>
+  </defs>
+  <rect width="64" height="64" rx="14" fill="url(#bg)"/>
+  <!-- Decorative brand accent bar -->
+  <rect x="8" y="10" width="5" height="44" rx="2.5" fill="#e9ae39"/>
+  <!-- KV Monogram typography in brand styling -->
+  <text x="21" y="44" font-family="'Outfit', 'Figtree', system-ui, sans-serif" font-size="31" font-weight="900" fill="#ffffff" letter-spacing="-1.5">K</text>
+  <text x="40" y="44" font-family="'Outfit', 'Figtree', system-ui, sans-serif" font-size="31" font-weight="900" fill="#e9ae39" letter-spacing="-1.5">V</text>
+</svg>
